@@ -70,13 +70,6 @@ npm run dev
 
 
 
-Backend:
-
-http://localhost:5000
-
-
-
-Frontend:
-
-http://localhost:5173
+Demo Link: 
+https://shop-ez-frontend-jaz6.onrender.com/
 
